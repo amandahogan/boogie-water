@@ -9,9 +9,9 @@ Move the kayaker with your keyboard arrows. You are able to navigate using two k
 definition of pin: water trapping a kayak where it doesn't want to be. Normally on a rock, tree or other fixed object. Potentially very dangerous.
 
 ### Client
-Built on-top of the Phaser framework (http://phaser.io)
-Runs physics (probably using the arcade physics system)
-Renders the game state in real time
+... Built on-top of the Phaser framework (http://phaser.io)
+... Runs physics (probably using the arcade physics system)
+... Renders the game state in real time
 
 ### Contributing
 Refer to Issues
