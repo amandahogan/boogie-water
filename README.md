@@ -1,7 +1,7 @@
 # boogie-water
 the fun easier water on a harder run where you just run without stopping
 
-### Demo: [I'm an inline-style link](https://boogie-water.netlify.com)
+### Demo: [Play Boogie water!](https://boogie-water.netlify.com)
 
 ### How to play
 Move the kayaker with your keyboard arrows. You are able to navigate using two keys at a time to backpaddle and forward paddle as well as perform sweep strokes. Be careful of the side of the river and boulders, If you hit them you will pin your kayak and drown.
