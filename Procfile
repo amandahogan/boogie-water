@@ -1,0 +1,1 @@
+web: "budo index.js:build/bundle.js --port $PORT"

@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "budo index.js --live --css style.css",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -19,9 +20,12 @@
   },
   "homepage": "https://github.com/amandahogan/boogie-water#readme",
   "dependencies": {
-    "phaser": "^2.6.2"
+    "path": "^0.12.7",
+    "phaser": "^2.6.2",
+    "webpack": "^3.5.5"
   },
   "devDependencies": {
-    "budo": "^9.4.2"
+    "budo": "^9.4.2",
+    "webpack-dev-server": "^2.7.1"
   }
 }
