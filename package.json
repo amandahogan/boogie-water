@@ -6,7 +6,7 @@
   "scripts": {
     "start": "budo index.js --live --css style.css",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "budo index.js:build/bundle.js --port $process.env.PORT"
+    "build": "budo index.js:build/bundle.js --port $PORT"
   },
   "repository": {
     "type": "git",
