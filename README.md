@@ -1,5 +1,5 @@
 # boogie-water
-the fun easier water on a harder run where you just run without stopping
+the fun easier water on a harder kayaking run where you just run without stopping
 
 ### Demo: [Play Boogie water!](https://boogie-water.netlify.com)
 
